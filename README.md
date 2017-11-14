@@ -10,4 +10,4 @@ This small example uses a set of Peruvian cities and its coordinates to plot the
 
 
 
-[![Peruvian cities](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=N_1w3LLrgd8 "Peruvian cities")
+[![Peruvian cities](https://img.youtube.com/vi/N_1w3LLrgd8/0.jpg)](https://www.youtube.com/watch?v=N_1w3LLrgd8 "Peruvian cities")
